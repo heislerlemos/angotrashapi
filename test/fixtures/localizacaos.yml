@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imagem: MyString
+  zona: MyString
+  recolha: 1
+  postodelixo: 1
+  agentenome1: MyString
+  agentenumero1: 1
+  agentenome2: MyString
+  agentenumero2: 1
+  agentenome3: MyString
+  agentenumero3: 1
+  agentenome4: MyString
+  agentenumero4: 1
+  agentenome5: MyString
+  agentenumero5: 1
+
+two:
+  imagem: MyString
+  zona: MyString
+  recolha: 1
+  postodelixo: 1
+  agentenome1: MyString
+  agentenumero1: 1
+  agentenome2: MyString
+  agentenumero2: 1
+  agentenome3: MyString
+  agentenumero3: 1
+  agentenome4: MyString
+  agentenumero4: 1
+  agentenome5: MyString
+  agentenumero5: 1
